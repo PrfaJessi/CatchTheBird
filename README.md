@@ -1,6 +1,7 @@
 # CatchTheBird
 Jogo desenvolvido por mim utilizando a biblioteca PgZero em Python!
-![image](https://github.com/user-attachments/assets/344f46ae-ee96-411a-88e1-911014892313)
+![image](https://github.com/user-attachments/assets/8d37dc0d-3982-40b7-94a6-acadcb1bb936)
+
 
 O jogo foi desenvolvido como parte de um teste para tutores para a escola KodLand, utilizando a linguagem Python e a biblioteca Pygame Zero, que é uma versão mais simplificada da biblioteca Pygame. 
 Todos os recursos para o jogo foram selecionados em plataformas gratuitas, com materiais de domínio público, com exceção das imagens dos botões do menu, que foram feitos pelo Dall-E 3, pela música de fundo, também produzida por IA, na plataforma Suno e alguns dos efeitos sonoros de miados, que foram feitos domesticamente, com ajuda dos meus gatos. 
